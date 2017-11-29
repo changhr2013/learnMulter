@@ -1,0 +1,18 @@
+{
+  "name": "multertest",
+  "version": "1.0.0",
+  "description": "learn multer\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Cstart learn multer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "multer"
+  ],
+  "author": "changhr2013",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "multer": "^1.3.0"
+  }
+}
